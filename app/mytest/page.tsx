@@ -4,8 +4,8 @@ import Button from "../components/inputs/Button";
 import ButtonTabs from "../components/inputs/Tabs";
 import Feedback from "../components/feedback/Feedback";
 import NoData from "../components/no-data/NoData";
-import Card from "./components/card";
-import ProgressBar from "./components/progressBar";
+import Card from "./components/Card";
+import ProgressBar from "./components/ProgressBar";
 import Toggle from "./components/Toggle";
 
 export default function Home() {
